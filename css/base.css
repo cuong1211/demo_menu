@@ -1,0 +1,13 @@
+.html {
+    line-height: 15px;
+    box-sizing: inherit;
+}
+
+:root {
+    --white-color: #fff;
+    --black-color: black;
+    --navbar-height: 45px;
+    --header-height: 210px;
+    --mid-height: 115px;
+    --sticky-height: 50px
+}
